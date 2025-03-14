@@ -2,6 +2,8 @@
 
 Este é um script Python que monitora eventos de bloqueio e desbloqueio de sessão no Windows e inicia ou encerra um programa com base nesses eventos.
 
+O programa foi desenvolvido sob a necessidade de não esquecer de ativar ou desativar o programa Microsip (programa para chamadas Voip), ao se ausentar e retornar a base de atendimento(Suporte).
+
 ## Requisitos
 
 - Python 3.x
