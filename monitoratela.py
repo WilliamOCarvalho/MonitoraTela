@@ -138,5 +138,5 @@ if __name__ == "__main__":
     elif not os.path.isfile(programa):
         print("Erro: O caminho fornecido não é válido ou o arquivo não existe.")
     else:
-        star_tprogram(programa, process_name)
+        start_program(programa, process_name)
         session_change_listener(programa, process_name)
